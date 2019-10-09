@@ -142,3 +142,7 @@ blah blah blah targil.
 ## Solution Tables
 
 
+<html>
+  <head>
+    <title>Test</title>
+  </head>

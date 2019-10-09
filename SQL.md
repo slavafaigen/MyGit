@@ -50,8 +50,11 @@ Rows : 1, 2.
   
 > **CREATE TABLE** family(
 > First_Name VARCHAR(50),
+
 > Last_Name VARCHAR(50),
+
 > Age INT 
+
 > );
 
 

@@ -100,6 +100,8 @@ Columns : First_Name, Last_Name, Age.
 
 ## Warnings
 
+1. **SHOW WARNINGS**;
+> - Show all wanings. If you use other command after you got warnings, you will not see the warnings.
 ***
 
 

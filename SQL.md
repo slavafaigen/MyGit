@@ -43,11 +43,11 @@ Rows : 1, 2.
 ***
 
 ## Types of Variables
-1.**INT** 
+1. **INT** 
 > - Integer . Examples : 5, 100 , 0 , -63...
 >  Size : -2^31 (-2,147,483,648) to 2^31-1 (2,147,483,647)
 
-2.**VARCHAR(N)**
+2. **VARCHAR(N)**
 > - Text variable
 > - N is amount of chars(size of varchar, lenght of the word)
 > - VARCHAR(3): word built form 3 chars (egg, koi, BMW, six)

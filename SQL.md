@@ -33,12 +33,12 @@ explanation about what this page is !
 ## Tables
 We have columns and rows. Lets see it :
 
-|  | First Name | Last Name | Age  |
+|  | First_Name | Last_Name | Age  |
 |--|------------|-----------|------|
 |1.| Slava      | Faigen    |   30 |
 |2.| Idit       | Faigen    |   26 |
 
-Columns : First Name, Last Name, Age.
+Columns : First_Name, Last_Name, Age.
 
 Rows : 1, 2.
 
@@ -48,6 +48,13 @@ Rows : 1, 2.
  
   );
   
+> **CREATE TABLE** family(
+> First_Name VARCHAR(50),
+> Last_Name VARCHAR(50),
+> Age INT 
+> );
+
+
 ***
 
 ## Types of Variables

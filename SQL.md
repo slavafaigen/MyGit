@@ -3,8 +3,7 @@ explanation about what this page is !
 ***
 
 #### Table of Contents
-[Your step at Databases](#1.)
-Start with your database
+[Your step at Databases](1.)
 
 ***
 1. **CREATE DATABASE** < database name >;

@@ -3,11 +3,11 @@ explanation about what this page is !
 ***
 
 #### Table of Contents
-- [Your step at Databases](## Your-first-steps-at-databases)
+- [Your step at Databases](##Your-first-steps-at-databases)
 - [Use/Select](##Use-and-Select)
 
 ***
-## Your first steps at databases
+##Your first steps at databases
 1. **CREATE DATABASE** < database name >;
 > - Create database with name that you choose
 

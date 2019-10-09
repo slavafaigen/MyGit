@@ -48,7 +48,7 @@ Columns : First_Name, Last_Name, Age.
  
    );
    
-> **CREATE TABLE** family(
+> **CREATE TABLE** family (
 > First_Name VARCHAR(50),
 
 > Last_Name VARCHAR(50),

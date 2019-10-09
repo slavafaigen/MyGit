@@ -1,4 +1,3 @@
 # SQL
 
-+
-* sql
+* CREATE DATABASE <database name>;

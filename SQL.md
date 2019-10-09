@@ -14,7 +14,7 @@ Start with your database
 > - Show all created databases
 
 3. **DROP DATABASE** < database name >;
-> - Delete database that you choose
+    - Delete database that you choose
 ***
 
 

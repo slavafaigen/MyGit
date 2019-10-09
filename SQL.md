@@ -1,3 +1,3 @@
 # SQL
 ***
-##### 1. CREATE DATABASE ##### <  database name >;
+##### 1. CREATE DATABASE <database name>;

@@ -118,7 +118,12 @@ Null is not **ZERO**!
 
 ## Work on Tables
 
-blah blah blah targil.
+Create table for 3 of my pets.
+I have 2 cats and a dog.
+Female cat named : Cholera . She is 3 years old.
+Male cat named :Perach. He is 3 years old.
+Female dog : Pie. She is 2 years old.
+Good luck!
 
 [Solution Tables](#Solution-Tables)
 
@@ -141,8 +146,3 @@ blah blah blah targil.
 
 ## Solution Tables
 
-
-<html>
-  <head>
-    <title>Test</title>
-  </head>

@@ -44,10 +44,10 @@ Columns : First_Name, Last_Name, Age.
 
 1. **CREATE TABLE** < table name >(
 
- < column name > < data type >
+   < column name > < data type >
  
-  );
-  
+   );
+   
 > **CREATE TABLE** family(
 > First_Name VARCHAR(50),
 
@@ -60,7 +60,7 @@ Columns : First_Name, Last_Name, Age.
 2. **SHOW TABLES**;
 > - Show tables at your database
 
-3.**SHOW COLUMNS FROM** < table name >;
+3. **SHOW COLUMNS FROM** < table name >;
 > - Show columns from your table
 
 4. **DESC** < table name >;

@@ -44,8 +44,8 @@ Rows : 1, 2.
 
 ## Types of Variables
 1. **INT** 
-> - Integer . Examples : 5, 100 , 0 , -63
->  Size : -2^31 (-2,147,483,648) to 2^31-1 (2,147,483,647)
+> - Integer . Examples : 5, 100 , 0 , -63...
+> - Size : -2^31 (-2,147,483,648) to 2^31-1 (2,147,483,647)
 
 2. **VARCHAR(N)**
 > - Text variable

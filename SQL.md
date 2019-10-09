@@ -42,8 +42,10 @@ Columns : First Name, Last Name, Age.
 
 Rows : 1, 2.
 
-**CREATE TABLE** <table name>(
+**CREATE TABLE** < table name >(
+
  < column name > < data type >
+ 
   );
   
 ***

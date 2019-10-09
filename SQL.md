@@ -34,6 +34,7 @@ We have colimns and rows. Lets see it :
 
 | First Name | Last Name | Age  |
 |------------|-----------|------|
-| Slava      | Faigen    |   30 |
-| Idit       | Faigen    |   26 |
-|------------|-----------|------|
+|1.| Slava      | Faigen    |   30 |
+|2.| Idit       | Faigen    |   26 |
+
+

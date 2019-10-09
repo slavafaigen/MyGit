@@ -4,7 +4,7 @@ explanation about what this page is !
 
 #### Table of Contents
 
-Start with your database
+'Start' with your database
 
 ***
 1. **CREATE DATABASE** < database name >;
@@ -18,5 +18,4 @@ Start with your database
 ***
 
 
-+ hgfhfghfghfgh
-     + hgfhghfghfgh
+

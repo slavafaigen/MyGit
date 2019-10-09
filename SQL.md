@@ -79,6 +79,11 @@ Columns : First_Name, Last_Name, Age.
 >
 >   ('Idit','Miron',26);
 
+7. **SELECT * FROM** < table name> ;
+> - Show your table content
+
+
+
 ***
 
 ## Types of Variables

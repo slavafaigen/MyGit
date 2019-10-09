@@ -37,12 +37,12 @@ We have columns and rows. Lets see it :
 |--|------------|-----------|------|
 |1.| Slava      | Faigen    |   30 |
 |2.| Idit       | Faigen    |   26 |
-
+Rows : 1, 2.
 Columns : First_Name, Last_Name, Age.
 
-Rows : 1, 2.
 
-**CREATE TABLE** < table name >(
+
+1.**CREATE TABLE** < table name >(
 
  < column name > < data type >
  
@@ -56,6 +56,15 @@ Rows : 1, 2.
 > Age INT 
 
 > );
+
+2. **SHOW TABLES;
+> - Show tables at your database
+
+3.**SHOW COLUMNS FROM** < table name >;
+> - Show columns from your table
+
+4. **DESC** < table name >;
+> - Describe your table. Will show you table columns and types of variables in it.
 
 
 ***

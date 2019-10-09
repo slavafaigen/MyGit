@@ -77,7 +77,7 @@ Columns : First_Name, Last_Name, Age.
 >
 >   **VALUES** ('Slava','Faigen',30), 
 >
-> ('Idit','Miron',26);
+>   ('Idit','Miron',26);
 
 ***
 

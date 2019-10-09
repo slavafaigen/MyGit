@@ -7,7 +7,7 @@ explanation about what this page is !
 - [USE/SELECT](#Use-and-Select)
 - [Types of Variables](#Types-of-Variables)
 - [Tables](#Tables)
-
+- [Warning](#Warnings)
 
 ***
 ## Your first steps at databases
@@ -97,3 +97,11 @@ Columns : First_Name, Last_Name, Age.
 > - VARCHAR(3): word built form 3 chars (egg, koi, BMW, six)
 
 ***
+
+## Warnings
+
+***
+
+
+
+

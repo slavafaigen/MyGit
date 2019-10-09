@@ -5,7 +5,7 @@ explanation about what this page is !
 #### Table of Contents
 [Your step at Databases](##Your-first-steps-at-databases)
 
-[Heading IDs](#heading-ids)	
+[Heading IDs](##heading-ids)	
 
 
 ***
@@ -31,13 +31,11 @@ explanation about what this page is !
 
 
 
-## Jump
 
 
 
 
-
-# heading ids
+## heading ids
 
 
 

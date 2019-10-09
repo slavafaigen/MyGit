@@ -10,7 +10,7 @@ explanation about what this page is !
 - [Warning](#Warnings)
 
 
-- [Exercise:Tables](#Work -on-Tables)
+- [Exercise Tables](#Work -on-Tables)
 
 ***
 ## Your first steps at databases

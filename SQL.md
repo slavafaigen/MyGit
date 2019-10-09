@@ -3,7 +3,7 @@ explanation about what this page is !
 ***
 
 #### Table of Contents
-[Your step at Databases](#JUMP)
+[Your step at Databases](**SHOW DATABASES;**)
 
 
 1. **CREATE DATABASE** < database name >;
@@ -29,10 +29,11 @@ explanation about what this page is !
 
 
 
-2
+
 
 
 
 
 
 # JUMP
+**SHOW DATABASES;**

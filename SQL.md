@@ -72,6 +72,7 @@ Columns : First_Name, Last_Name, Age.
 6. **INSERT INTO** < table name > ( < column_name1 > , < column_name2 > )
 
    **VALUES** ( < value1 > , < value2 > );
+> - Fill your table.   
    
 
 ***

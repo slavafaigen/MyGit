@@ -1,7 +1,7 @@
 # SQL
 explanation about what this page is !
 
-### Table of Contents
+#### Table of Contents
 
 Start with your database
 

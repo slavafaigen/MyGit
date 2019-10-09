@@ -7,7 +7,7 @@ explanation about what this page is !
 
 [Use/Select](##Use-and-Select)
 
-[Jump](##Jump)
+[Jump](##jump)
 
 ***
 ## Your first steps at databases

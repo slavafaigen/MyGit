@@ -117,3 +117,28 @@ Null is not **ZERO**!
 ***
 
 ## Work on Tables
+
+blah blah blah targil.
+
+[Solution Tables](#Solution-Tables)
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Solution Tables
+
+

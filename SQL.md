@@ -104,6 +104,9 @@ Columns : First_Name, Last_Name, Age.
 > - Show all wanings. If you use other command after you got warnings, you will not see the warnings.
 ***
 
+## How to work with NULL?
+
+Null is not **ZERO**!
 
 
 

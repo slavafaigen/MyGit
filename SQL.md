@@ -66,6 +66,12 @@ Columns : First_Name, Last_Name, Age.
 4. **DESC** < table name >;
 > - Describe your table. Will show you table columns and types of variables in it.
 
+5. **DROP TABLE** < table name>;
+> - Delete your table
+
+6. **INSERT INTO** < table name >( < column_name1 > , < column_name2 > )
+   **VALUES** ( <value1. , < value2> );
+   
 
 ***
 

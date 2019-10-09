@@ -74,8 +74,8 @@ Columns : First_Name, Last_Name, Age.
    **VALUES** ( < value1 > , < value2 > );
 > - Fill your table.   
 > **INSERT INTO** family (First_name ,Last_name, Age)
-> **VALUES** ('Slava','Faigen',30),
->            ('Idit','Miron',26);
+>
+> **VALUES** ('Slava','Faigen',30), ('Idit','Miron',26);
 
 ***
 

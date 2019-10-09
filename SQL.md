@@ -27,22 +27,5 @@ explanation about what this page is !
 2. **SELECT**  < database name >;
 > - What was the name of last Database that we used.
 >   Last dabases that we used command USE on it.
-
-
-
-
-
-
-
-
-## heading ids
-
-
-
-
-
-
-
-
-
+***
 

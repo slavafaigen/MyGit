@@ -8,7 +8,7 @@ explanation about what this page is !
 - [Types of Variables](#Types-of-Variables)
 - [Tables](#Tables)
 - [Warning](#Warnings)
-- [Exercise](#Work-it-:-Tables)
+- [Exercise](#Work-it)
 
 ***
 ## Your first steps at databases
@@ -111,5 +111,5 @@ Null is not **ZERO**!
 
 ***
 
-## Work it : Tables
+## Work it
 

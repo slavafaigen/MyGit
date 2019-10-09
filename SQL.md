@@ -40,6 +40,11 @@ We have columns and rows. Lets see it :
 Columns : First Name, Last Name, Age.
 
 Rows : 1, 2.
+
+**CREATE TABLE** <table name>(
+ <column name> <data type>
+  );
+  
 ***
 
 ## Types of Variables

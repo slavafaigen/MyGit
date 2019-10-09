@@ -38,5 +38,6 @@ We have columns and rows. Lets see it :
 |2.| Idit       | Faigen    |   26 |
 
 Columns : First Name, Last Name, Age.
+
 Rows : 1, 2.
 

@@ -3,9 +3,9 @@ explanation about what this page is !
 ***
 
 #### Table of Contents
-[Your step at Databases](##Your-first-steps-at-databases)
+[Your step at Databases](#Your-first-steps-at-databases)
 
-[Heading IDs](##heading-ids)	
+[Heading IDs](#heading-ids)	
 
 
 ***

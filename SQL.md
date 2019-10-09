@@ -6,6 +6,7 @@ explanation about what this page is !
 - [Your first steps at Databases](#Your-first-steps-at-databases)
 - [USE/SELECT](#Use-and-Select)
 - [Types of Variables](#Types-of-Variables)
+- [Tables](#Tables)
 
 
 ***
@@ -42,7 +43,7 @@ Columns : First Name, Last Name, Age.
 Rows : 1, 2.
 
 **CREATE TABLE** <table name>(
- <column name> <data type>
+ < column name > < data type >
   );
   
 ***

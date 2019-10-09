@@ -29,4 +29,11 @@ explanation about what this page is !
 >   Last dabases that we used command USE on it.
 ***
 
-##Tables
+## Tables
+We have colimns and rows. Lets see it :
++------------+-----------+------+
+| First Name | Last Name | Age  |
++------------+-----------+------+
+| Slava      | Faigen    |   30 |
+| Idit       | Faigen    |   26 |
++------------+-----------+------+

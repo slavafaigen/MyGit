@@ -8,7 +8,7 @@ explanation about what this page is !
 - [Types of Variables](#Types-of-Variables)
 - [Tables](#Tables)
 - [Warning](#Warnings)
-- [Exercise](#Work it)
+- [Exercise](#Work-it-:-Tables)
 
 ***
 ## Your first steps at databases
@@ -109,5 +109,7 @@ Columns : First_Name, Last_Name, Age.
 
 Null is not **ZERO**!
 
+***
 
+## Work it : Tables
 

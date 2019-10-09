@@ -7,7 +7,7 @@ explanation about what this page is !
 - [Use/Select](##Use-and-Select)
 
 ***
-##Your first steps at databases
+## Your first steps at databases
 1. **CREATE DATABASE** < database name >;
 > - Create database with name that you choose
 

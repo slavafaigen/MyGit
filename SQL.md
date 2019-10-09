@@ -5,7 +5,7 @@ explanation about what this page is !
 #### Table of Contents
 - [Your step at Databases](#Your-first-steps-at-databases)
 - [USE/SELECT](#Use-and-Select)
-- [Types of Variables](#Types-of-variables)
+- [Types of Variables](#Types-of-Variables)
 
 
 ***
@@ -42,6 +42,6 @@ Columns : First Name, Last Name, Age.
 Rows : 1, 2.
 ***
 
-## Types of variables
+## Types of Variables
 
 ***

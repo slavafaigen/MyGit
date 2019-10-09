@@ -35,10 +35,13 @@ explanation about what this page is !
 We have columns and rows. Lets see it :
 
 |  | First_Name | Last_Name | Age  |
-|--|------------|-----------|------|
+|  |------------|-----------|------|
 |1.| Slava      | Faigen    |   30 |
 |2.| Idit       | Faigen    |   26 |
+
+
 Rows : 1, 2.
+
 Columns : First_Name, Last_Name, Age.
 
 

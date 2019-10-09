@@ -8,7 +8,7 @@ explanation about what this page is !
 - [Types of Variables](#Types-of-Variables)
 - [Tables](#Tables)
 - [Warning](#Warnings)
-- [Exercise](#Work-it)
+- [Exercise](#Work-it:-Tables)
 
 ***
 ## Your first steps at databases
@@ -35,7 +35,7 @@ explanation about what this page is !
 We have columns and rows. Lets see it :
 
 |  | First_Name | Last_Name | Age  |
-|  |------------|-----------|------|
+|--|------------|-----------|------|
 |1.| Slava      | Faigen    |   30 |
 |2.| Idit       | Faigen    |   26 |
 
@@ -114,5 +114,5 @@ Null is not **ZERO**!
 
 ***
 
-## Work it
+## Work it: Tables
 

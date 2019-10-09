@@ -125,7 +125,7 @@ I have 2 cats and a dog.
 - Female dog : Pie. She is 2 years old.
 Good luck!
 
-[Solution Tables](#Solution-Tables)
+[Solution](#Solution-Tables)
 
 ***
 

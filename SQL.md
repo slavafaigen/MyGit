@@ -3,9 +3,9 @@ explanation about what this page is !
 ***
 
 #### Table of Contents
-[Your step at Databases](#JUMP HERE)
+[Your step at Databases](#JUMP)
 
-***
+
 1. **CREATE DATABASE** < database name >;
 > - Create database with name that you choose
 
@@ -15,6 +15,8 @@ explanation about what this page is !
 3. **DROP DATABASE** < database name >;
  > - Delete database that you choose
 ***
+
+
 
 
 

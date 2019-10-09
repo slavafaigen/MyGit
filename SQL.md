@@ -4,4 +4,4 @@
 > - Will create database with name that you choose
 
 2. **SHOW DATABASES;**
-> - *Show all created databases*
+> - Show all created databases*

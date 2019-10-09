@@ -69,8 +69,9 @@ Columns : First_Name, Last_Name, Age.
 5. **DROP TABLE** < table name>;
 > - Delete your table
 
-6. **INSERT INTO** < table name >( < column_name1 > , < column_name2 > )
-   **VALUES** ( <value1. , < value2> );
+6. **INSERT INTO** < table name > ( < column_name1 > , < column_name2 > )
+
+   **VALUES** ( < value1 > , < value2 > );
    
 
 ***

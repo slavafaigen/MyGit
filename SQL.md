@@ -42,7 +42,7 @@ Columns : First_Name, Last_Name, Age.
 
 
 
-1.**CREATE TABLE** < table name >(
+1. **CREATE TABLE** < table name >(
 
  < column name > < data type >
  
@@ -57,7 +57,7 @@ Columns : First_Name, Last_Name, Age.
 
 > );
 
-2. **SHOW TABLES;
+2. **SHOW TABLES**;
 > - Show tables at your database
 
 3.**SHOW COLUMNS FROM** < table name >;

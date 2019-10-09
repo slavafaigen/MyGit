@@ -6,8 +6,6 @@ explanation about what this page is !
 - [Your step at Databases](##Your-first-steps-at-databases)
 - [Use/Select](##Use-and-Select)
 
-
-
 ***
 ## Your first steps at databases
 1. **CREATE DATABASE** < database name >;
@@ -19,6 +17,14 @@ explanation about what this page is !
 3. **DROP DATABASE** < database name >;
  > - Delete database that you choose
 ***
+
+## Use and Select
+1. **USE**  < database name >;
+> - Answer to this command is : Data base changed
+
+2. **SELECT**  < database name >;
+> - What was the name of last Database that we used.
+>   Last dabases that we used command USE on it.
 
 
 

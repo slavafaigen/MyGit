@@ -3,7 +3,7 @@ explanation about what this page is !
 ***
 
 #### Table of Contents
-- [Your step at Databases](#Your-first-steps-at-databases)
+- [Your first steps at Databases](#Your-first-steps-at-databases)
 - [USE/SELECT](#Use-and-Select)
 - [Types of Variables](#Types-of-Variables)
 

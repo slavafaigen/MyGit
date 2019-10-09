@@ -76,7 +76,8 @@ Columns : First_Name, Last_Name, Age.
 > **INSERT INTO** family (First_name ,Last_name, Age)
 >
 >   **VALUES** ('Slava','Faigen',30), 
->   ('Idit','Miron',26);
+>
+> ('Idit','Miron',26);
 
 ***
 

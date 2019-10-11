@@ -100,7 +100,7 @@ Columns : First_Name, Last_Name, Age.
 2. **VARCHAR(N)**
 > - Text variable
 > - N is amount of chars(size of varchar, lenght of the word)
-> - VARCHAR(3): word built form 3 chars (egg, koi, BMW, six)
+> - VARCHAR(3): word built form 3 chars (cat, dog, egg, koi, BMW, six)
 
 ***
 
@@ -127,6 +127,8 @@ Good luck!
 
 [Solution](#Solution-Tables)
 
+
+       
 ***
 
 
@@ -146,3 +148,19 @@ Good luck!
 
 ## Solution Tables
 
+CREATE DATABASE pet;
+USE pet;
+
+CREATE TABLE pets(
+Breed VARCHAR(3),
+Sex VARCHAR(6),
+Name VARCHAR(100),
+Age INT
+);
+
+INSERT INTO pets(Breed, Sex, Name, Age)
+VALUES ('cat', 'female', 'Cholera' , 3),
+
+       ('cat', 'male', 'Perach', 3),
+       
+       ('dog', 'female', 'Pie', 2);

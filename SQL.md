@@ -166,6 +166,4 @@ Age INT
 
 INSERT INTO pets(Breed, Sex, Name, Age)
 
-VALUES ('cat', 'female', 'Cholera' , 3),
-       ('cat', 'male', 'Perach', 3),   
-       ('dog', 'female', 'Pie', 2);
+VALUES ('cat', 'female', 'Cholera' , 3), ('cat', 'male', 'Perach', 3), ('dog', 'female', 'Pie', 2);

@@ -149,18 +149,23 @@ Good luck!
 ## Solution Tables
 
 CREATE DATABASE pet;
+
 USE pet;
 
 CREATE TABLE pets(
+
 Breed VARCHAR(3),
+
 Sex VARCHAR(6),
+
 Name VARCHAR(100),
+
 Age INT
+
 );
 
 INSERT INTO pets(Breed, Sex, Name, Age)
-VALUES ('cat', 'female', 'Cholera' , 3),
 
-       ('cat', 'male', 'Perach', 3),
-       
+VALUES ('cat', 'female', 'Cholera' , 3),
+       ('cat', 'male', 'Perach', 3),   
        ('dog', 'female', 'Pie', 2);

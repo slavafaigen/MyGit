@@ -12,7 +12,7 @@ explanation about what this page is !
 - [Warning](#Warnings)
 - [Key](#Key)
 - [Default](#Default-Values)
--[Where](#Where)
+- [Where](#Where)
 ***
 ## Your first steps at databases
 1. **CREATE DATABASE** < database name >;

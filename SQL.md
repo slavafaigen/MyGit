@@ -13,6 +13,8 @@ explanation about what this page is !
 - [Key](#Key)
 - [Default](#Default-Values)
 - [Where](#Where)
+- [Alieses](#Alieses)
+- [Update](#Update)
 ***
 ## Your first steps at databases
 1. **CREATE DATABASE** < database name >;
@@ -171,12 +173,35 @@ PRIMERY KEY(worker_id));
 
 ## Where
 
-1. **SELECT** * **FROM** < table_name > **WHERE** < column_name > = ' < VARCHAR()_NAME > '; 
+1. **SELECT** * **FROM** < table_name > **WHERE** < column_name > = ' < VARCHAR()> '; 
 > When column variables are VARCHAR()
 
 
 2. **SELECT** * **FROM** < table_name > **WHERE** < column_name > = < number >;
 > When column variables are INT
+
+***
+
+## Alieses
+
+***
+
+## Upadate
+
+How do we alter the existing data?  **THERE IS NO UNDO BUTTON !!!**
+
+1. **UPDATE** < table_name > **SET** < colunm_name >='< VARCHAR() >' 
+
+**WHERE** < column_name >='<VARCHAR() >';
+
+2.  **UPDATE** < table_name > **SET** < colunm_name >= < number > 
+
+**WHERE** < column_name >='<VARCHAR() >';
+
+3.  **UPDATE** < table_name > **SET** < colunm_name >='< VARCHAR() >' 
+
+**WHERE** < column_name >=< number >;
+
 
 ***
 

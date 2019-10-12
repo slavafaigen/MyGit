@@ -192,15 +192,15 @@ How do we alter the existing data?  **THERE IS NO UNDO BUTTON !!!**
 
 1. **UPDATE** < table_name > **SET** < colunm_name >='< VARCHAR() >' 
 
-**WHERE** < column_name >='<VARCHAR() >';
+   **WHERE** < column_name >='<VARCHAR() >';
 
-2.  **UPDATE** < table_name > **SET** < colunm_name >= < number > 
+2. **UPDATE** < table_name > **SET** < colunm_name >= < number > 
 
-**WHERE** < column_name >='<VARCHAR() >';
+   **WHERE** < column_name >='<VARCHAR() >';
 
-3.  **UPDATE** < table_name > **SET** < colunm_name >='< VARCHAR() >' 
+3. **UPDATE** < table_name > **SET** < colunm_name >='< VARCHAR() >' 
 
-**WHERE** < column_name >=< number >;
+   **WHERE** < column_name >=< number >;
 
 
 ***

@@ -9,7 +9,7 @@ explanation about what this page is !
 - [Tables](#Tables)
 - [Warning](#Warnings)
 - [Key](#Key)
-- [Default](#Default Values)
+- [Default](#Default-Values)
 
 - [Exercise Tables](#Work-on-Tables)
 
@@ -133,7 +133,22 @@ Good luck!
 ***
 ## Default Values
 
+If you forgot or you dont want to fill table with data , SQL will do it for you and put the default value there.
 
+CREATE TABLE workers(
+
+name VARCHAR(100) DEFAULT 'No name provided',
+
+age INT DEFAULT 00);
+
+
+Also you can prohibit using NULL value:
+
+CREATE TABLE workers(
+
+name VARCHAR(100) NOT NULL DEFAULT 'No name provided',
+
+age INT NOT NULL DEFAULT 00);
 ***
 
 ## Key

@@ -142,7 +142,7 @@ name VARCHAR(100) DEFAULT 'No name provided',
 age INT DEFAULT 00);
 
 
-Also you can prohibit using NULL value:
+*Also you can prohibit using NULL value:*
 
 CREATE TABLE workers(
 

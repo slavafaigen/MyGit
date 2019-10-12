@@ -114,6 +114,7 @@ Columns : First_Name, Last_Name, Age.
 ## How to work with NULL?
 
 Null is not **ZERO**!
+Value unknown!
 
 ***
 
@@ -152,17 +153,21 @@ age INT NOT NULL DEFAULT 00);
 ***
 
 ## Key
+Unique identifier. To identify between different "worker" but with the same name we give them primary key.
+Evryone has his own primery key. We can enter it or we can ask from SQL to do this.
+
+CREATE TABLE workers(worker_id INT NOT NULL,
+name VARCHAR(100),
+PRIMERY KEY(worker_id));
+
+*SQL automatic fill the Key:*
+CREATE TABLE workers(worker_id INT NOT NULL AUTO_INCREMENT,
+name VARCHAR(100),
+PRIMERY KEY(worker_id));
+
+
 
 ***
-
-
-
-
-
-
-
-
-
 
 ## Solution Tables
 

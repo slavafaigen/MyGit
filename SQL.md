@@ -186,7 +186,7 @@ PRIMERY KEY(worker_id));
 
 ***
 
-## Upadate
+## Update
 
 How do we alter the existing data?  **THERE IS NO UNDO BUTTON !!!**
 

@@ -7,7 +7,8 @@ explanation about what this page is !
 - [USE/SELECT](#Use-and-Select)
 - [Types of Variables](#Types-of-Variables)
 - [Tables](#Tables)
->- [Exercise Tables](#Work-on-Tables)
+    - [Exercise Tables](#Work-on-Tables)
+    
 - [Warning](#Warnings)
 - [Key](#Key)
 - [Default](#Default-Values)

@@ -7,11 +7,10 @@ explanation about what this page is !
 - [USE/SELECT](#Use-and-Select)
 - [Types of Variables](#Types-of-Variables)
 - [Tables](#Tables)
+>- [Exercise Tables](#Work-on-Tables)
 - [Warning](#Warnings)
 - [Key](#Key)
 - [Default](#Default-Values)
-
-- [Exercise Tables](#Work-on-Tables)
 
 ***
 ## Your first steps at databases
@@ -89,7 +88,8 @@ Columns : First_Name, Last_Name, Age.
 7. **SELECT * FROM** < table name> ;
 > - Show your table content
 
-
+8. **SELECT** < column_name > **FROM** < table_name>;
+> - Show spesific column from your table.
 
 ***
 

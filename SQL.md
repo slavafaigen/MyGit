@@ -9,6 +9,7 @@ explanation about what this page is !
 - [Tables](#Tables)
 - [Warning](#Warnings)
 - [Key](#Key)
+- [Default](#Default Values)
 
 - [Exercise Tables](#Work-on-Tables)
 
@@ -130,10 +131,10 @@ Good luck!
 
        
 ***
+## Default Values
 
 
-
-
+***
 
 ## Key
 

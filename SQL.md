@@ -12,7 +12,7 @@ explanation about what this page is !
 - [Warning](#Warnings)
 - [Key](#Key)
 - [Default](#Default-Values)
-
+-[Where](#Where)
 ***
 ## Your first steps at databases
 1. **CREATE DATABASE** < database name >;
@@ -167,7 +167,16 @@ CREATE TABLE workers(worker_id INT NOT NULL AUTO_INCREMENT,
 name VARCHAR(100),
 PRIMERY KEY(worker_id));
 
+***
 
+## Where
+
+1. **SELECT** * **FROM** < table_name > **WHERE** < column_name > = ' < VARCHAR()_NAME > '; 
+> When column variables are VARCHAR()
+
+
+2. **SELECT** * **FROM** < table_name > **WHERE** < column_name > = < number >;
+> When column variables are INT
 
 ***
 

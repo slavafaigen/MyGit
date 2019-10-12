@@ -161,6 +161,7 @@ name VARCHAR(100),
 PRIMERY KEY(worker_id));
 
 *SQL automatic fill the Key:*
+
 CREATE TABLE workers(worker_id INT NOT NULL AUTO_INCREMENT,
 name VARCHAR(100),
 PRIMERY KEY(worker_id));

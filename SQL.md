@@ -15,6 +15,11 @@ explanation about what this page is !
 - [Where](#Where)
 - [Alieses](#Alieses)
 - [Update](#Update)
+- [Delete](#Delete)
+- [Concat](#Concat)
+- [Substring](#Substring)
+
+
 ***
 ## Your first steps at databases
 1. **CREATE DATABASE** < database name >;
@@ -202,8 +207,20 @@ How do we alter the existing data?  **THERE IS NO UNDO BUTTON !!!**
 
    **WHERE** < column_name >=< number >;
 
+***
+
+## Delete
 
 ***
+
+## Concat
+
+***
+
+## Substring
+
+
+
 
 ## Solution Tables
 

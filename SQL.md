@@ -211,6 +211,17 @@ How do we alter the existing data?  **THERE IS NO UNDO BUTTON !!!**
 
 ## Delete
 
+How to delete !
+
+**DELETE** < table_name > **WHERE** <column_name>='< VARCHAR() >' ;
+
+> - For VARCHAR()
+
+**DELETE** < table_name > **WHERE** <column_name>= < number > ;
+
+> - For INTeger
+
+
 ***
 
 ## Concat

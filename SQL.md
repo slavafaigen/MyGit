@@ -233,15 +233,13 @@ How to delete !
 
 Combine columns to new table. 
 
-> - There is no separator bettwen new columns.
-
 **SELECT CONCAT** (< columns_name> , < column_name >)
 **FROM** < table_name >;
-
-> - With Separator :
+> - There is no separator bettwen new columns.
 
 **SELECT CONCAT_WS** (< The Separator > , < column_name2 > , < column_name2 >)
 **FROM** < table_name >;
+> - With Separator.
 
 ***
 

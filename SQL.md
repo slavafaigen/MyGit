@@ -1,5 +1,7 @@
 # SQL
-explanation about what this page is !
+This page made by student.
+My personal notebook.
+
 ***
 
 #### Table of Contents
@@ -189,6 +191,9 @@ PRIMERY KEY(worker_id));
 
 ## Alieses
 
+Take your column name and call it with other name .
+
+**SELECT** < column_name > **AS** <new_column_name> ;
 ***
 
 ## Update
@@ -225,6 +230,18 @@ How to delete !
 ***
 
 ## Concat
+
+Combine columns to new table. 
+
+> - There is no separator bettwen new columns.
+
+**SELECT CONCAT** (< columns_name> , < column_name >)
+**FROM** < table_name >;
+
+> - With Separator :
+
+**SELECT CONCAT_WS** (< The Separator > , < column_name2 > , < column_name2 >)
+**FROM** < table_name >;
 
 ***
 

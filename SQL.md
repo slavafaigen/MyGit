@@ -20,6 +20,7 @@ My personal notebook.
 - [Delete](#Delete)
 - [Concat](#Concat)
 - [Substring](#Substring)
+- [CombineComamnds](#CombineComamnds)
 
 
 ***
@@ -235,18 +236,46 @@ Combine columns to new table.
 
 **SELECT CONCAT** (< columns_name> , < column_name >)
 **FROM** < table_name >;
-> - There is no separator bettwen new columns.
+
+> - There is no separator bettwen new columns
 
 **SELECT CONCAT_WS** (< The Separator > , < column_name2 > , < column_name2 >)
 **FROM** < table_name >;
-> - With Separator.
+
+> - With Separator
 
 ***
 
 ## Substring
 
+1. **SELECT SUBSTRING** ('Hello World!',1,4);
 
+> - Output: Hell
 
+2. **SELECT SUBSTRING** ('Hello World!', 7);
+
+> - Output: Hello W
+
+3. **SELECT SUBSTRING** ("Hello! I'm a student", 1 , 14 )
+
+> - Output: Hello! I'm a s
+
+4. **SELECT SUBSTRING** (< column_name >, < first_char >, < last_char >)
+   **FROM** <table_name>;
+
+***   
+
+## CombineComamnds
+
+**SELECT**
+        **CONCAT**(
+                   SUBSTRING** (< column_name >, 1 , 13),
+                   '...'
+                   )**AS** 'new_column_name'
+                    **FROM** < table_name >;
+              
+
+***
 
 ## Solution Tables
 

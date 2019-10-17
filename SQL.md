@@ -267,16 +267,9 @@ Combine columns to new table.
 
 ## CombineComamnds
 
-**SELECT**
-
-        **CONCAT**(
-        
-                   SUBSTRING** (< column_name >, 1 , 13),
-                   
-                   '...'
-                   
-                   )**AS** 'new_column_name'
-                   
+**SELECT
+        CONCAT** (
+                   SUBSTRING** (< column_name >, 1 , 13), '...')**AS** 'new_column_name'
                     **FROM** < table_name >;
               
 

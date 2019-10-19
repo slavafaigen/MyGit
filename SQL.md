@@ -300,6 +300,7 @@ Super straight forward!
 > - Output: dlroW olleH
 
 2. **SELECT REVERSE** (<column_name>)
+
    **FROM** <table_name>;
    
 ***

@@ -285,11 +285,23 @@ Replace parts of strings.
 
 > - Output: 1234o World
 
-2. **SELECT REPLACE** (< column_name >, '< char you want to replace >', '< new char that you replace with >' )
+2. **SELECT REPLACE** (< column_name >, '< char you want to replace >' , '< new char that you replace with >' )
 
    **FROM** <table_name> ;
   
-  
+***
+
+## Reverse
+
+Super straight forward!
+
+1. **SELECT REVERSE** ('Hello World')
+
+> - Output: dlroW olleH
+
+2. **SELECT REVERSE** (<column_name>)
+   **FROM** <table_name>;
+   
 ***
 
 ## CombineComamnds

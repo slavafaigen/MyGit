@@ -21,6 +21,17 @@ My personal notebook.
 - [Concat](#Concat)
 - [Substring](#Substring)
 - [CombineComamnds](#CombineComamnds)
+- [Replace](#Replace)
+- [Reverse](#Reverse)
+- [Char Lenght](#Char-Lenght)
+- [Upper/Lower](#Upper/Lower)
+- [Distinct](#Distinct)
+- [ORDER_BY](#ORDER_BY)
+- [Limit](#Limit)
+- [Like](#Like)
+
+
+
 
 
 ***

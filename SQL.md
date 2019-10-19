@@ -330,7 +330,81 @@ Change a string's case
 > - Output: hello world
 
  **SELECT UPPER/LOWER** (<column_name>)
-   **FROM** <table_name>;
+ **FROM** <table_name>;
+
+***
+
+## Distinct
+
+Gives you only the unique titles
+
+**SELECT DISTINCT** <column_name> **FROM** <table_name>;
+
+> - Output: will recive only one time the same value.
+
+***
+
+## ORDER_BY
+
+Sorting our result
+
+1. **SELECT** <column_name> **FROM** <table_name> **ORDER_BY** <column_name>;
+
+> - Output: Will sort your data fist numbers then words from A to Z
+
+2. **SELECT** <column_name> **FROM** <table_name> **ORDER_BY** <column_name> **DESC**;
+
+> - Output: Will sort your data from A to Z then numbers
+
+3. **SELECT** <column_name1>, <column_name2>, <column_name3> **FROM** <table_name> **ORDER_BY** <column_name2>;
+
+> - Output: Will print three columns that sorted by column2
+
+4. **SELECT** <column_name1>, <column_name2>, <column_name3> **FROM** <table_name> **ORDER_BY** 2;
+
+> - Output: Will print three columns that sorted by column2
+
+5. **SELECT** <column_name1>, <column_name2> **FROM** <table_name> **ORDER_BY** <column_name1>, <column_name2>;
+
+> - Output: Will sort you data by first column and the by the second one
+
+***
+
+## Limit
+
+How many results we want to select
+
+1. **SELECT** <column_name> **FROM** <table_name> **LIMIT** 3;
+
+> - Output: 3 first lines
+
+2. **SELECT** <column_name> **FROM** <table_name> **LIMIT** 4, 10;
+
+> - Output: Line-5,6,7,8,9,10 
+
+***
+
+## Like
+
+Better searching(% and _ are wildcards) 
+
+1. **WHERE** <column_name> **LIKE** '%da%'
+
+> - Output: Feda , David , Dan , Idan
+
+2. **WHERE** <columns_name> **LIKE** 'da%'
+
+> - Output: David , Dan
+
+3. **WHERE** <columns_name> **LIKE** '____'
+
+> - Output: words that contains only 4 chares  _ _ _ _
+
+HOW TO FIND WORDS THAT INCLUDES % OR _ ?
+
+4. **WHERE** <column_name> LIKE '\%' 
+
+5.  **WHERE** <column_name> LIKE '\_' 
 
 ***
 

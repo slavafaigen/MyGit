@@ -340,7 +340,7 @@ Gives you only the unique titles
 
 **SELECT DISTINCT** <column_name> **FROM** <table_name>;
 
-> - Output: will recive only one time the same value.
+> - Output: will recive only one time the same value
 
 ***
 

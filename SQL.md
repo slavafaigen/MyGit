@@ -24,7 +24,7 @@ My personal notebook.
 - [Replace](#Replace)
 - [Reverse](#Reverse)
 - [Char Lenght](#Char-Lenght)
-- [Upper/Lower](#Upper-/-Lower)
+- [Upper/Lower](#Upper-or-Lower)
 - [Distinct](#Distinct)
 - [ORDER_BY](#ORDER_BY)
 - [Limit](#Limit)
@@ -317,7 +317,7 @@ Counts characters in string
 
 ***
 
-## Upper/Lower
+## Upper or Lower
 
 Change a string's case
 

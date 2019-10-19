@@ -21,6 +21,7 @@ My personal notebook.
 - [Concat](#Concat)
 - [Substring](#Substring)
 - [CombineComamnds](#CombineComamnds)
+
 - [Replace](#Replace)
 - [Reverse](#Reverse)
 - [Char Lenght](#Char-Lenght)
@@ -275,6 +276,20 @@ Combine columns to new table.
    **FROM** <table_name>;
 
 ***   
+
+## Replace
+
+Replace parts of strings.
+
+1. **SELECT REPLACE** ('Hello World', 'Hell', '1234');
+
+> - Output: 1234o World
+
+2.**SELECT REPLACE** (< column_name >, '< char you want to replace >', '< new char that you replace with >' )
+  **FROM** <table_name> ;
+  
+  
+***
 
 ## CombineComamnds
 

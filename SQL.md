@@ -313,7 +313,7 @@ Counts characters in string
 > - Output: 11
 
 2. **SELECT**  <column_name>, **CHAR_LENGHT** (<column_name>)
-   **FROM** <table>;
+   **FROM** <table_name>;
 
 ***
 
@@ -330,7 +330,7 @@ Change a string's case
 > - Output: hello world
 
  **SELECT UPPER/LOWER** (<column_name>)
-   **FROM** <table>;
+   **FROM** <table_name>;
 
 ***
 

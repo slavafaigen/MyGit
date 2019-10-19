@@ -21,7 +21,6 @@ My personal notebook.
 - [Concat](#Concat)
 - [Substring](#Substring)
 - [CombineComamnds](#CombineComamnds)
-
 - [Replace](#Replace)
 - [Reverse](#Reverse)
 - [Char Lenght](#Char-Lenght)
@@ -303,6 +302,36 @@ Super straight forward!
 
    **FROM** <table_name>;
    
+***
+
+## Char Lenght
+
+Counts characters in string
+
+1. **SELECT CHAR_LENGHT** ('Hello World');
+
+> - Output: 11
+
+2. **SELECT**  <column_name>, **CHAR_LENGHT** (<column_name>)
+   **FROM** <table>;
+
+***
+
+## Upper/Lower
+
+Change a string's case
+
+**SELECT UPPER** ('Hello world');
+
+> - Output: HELLO WORLD
+
+**SELECT LOWER** ('HELLO WORLD');
+
+> - Output: hello world
+
+ **SELECT UPPER/LOWER** (<column_name>)
+   **FROM** <table>;
+
 ***
 
 ## CombineComamnds

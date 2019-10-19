@@ -30,7 +30,9 @@ My personal notebook.
 - [Limit](#Limit)
 - [Like](#Like)
 
-
+- [Count](#Count)
+- [Group by](#GROUP-BY)
+- [MIN/MAX](#MIN-and-MAX)
 
 
 

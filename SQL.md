@@ -285,8 +285,9 @@ Replace parts of strings.
 
 > - Output: 1234o World
 
-2.**SELECT REPLACE** (< column_name >, '< char you want to replace >', '< new char that you replace with >' )
-  **FROM** <table_name> ;
+2. **SELECT REPLACE** (< column_name >, '< char you want to replace >', '< new char that you replace with >' )
+
+   **FROM** <table_name> ;
   
   
 ***
